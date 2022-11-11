@@ -22,5 +22,6 @@
   "homepage": "https://github.com/kurotom/notapi#readme",
   "dependencies": {
     "json-server": "^0.17.1"
-  }
+  },
+	"type": "module"
 }
