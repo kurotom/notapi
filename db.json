@@ -1,0 +1,178 @@
+{
+  "productos": [
+    {
+      "name": "product0",
+      "id": "2e9bf729-dee5-48b7-b40c-db939ddb7aad",
+      "cat": 1,
+      "price": 56,
+      "img": "assets/img/unsplash_4OHkK555s1A.png",
+      "desc": "Stormtrooper con puntería reducida."
+    },
+    {
+      "name": "product1",
+      "id": "5ff8d8c4-cfb9-420c-8479-f49ba1d46d09",
+      "cat": 1,
+      "price": 48,
+      "img": "assets/img/unsplash_1VV1MRafd7A.png",
+      "desc": ""
+    },
+    {
+      "name": "product2",
+      "id": "8f7eb5ba-cf3f-46f9-89b5-fb331a1a78e7",
+      "cat": 1,
+      "price": 62,
+      "img": "assets/img/unsplash_6FDXGY9J6y4.png",
+      "desc": ""
+    },
+    {
+      "name": "product3",
+      "id": "1593df90-d6ce-44c0-9f61-d19985c416bf",
+      "cat": 1,
+      "price": 28,
+      "img": "assets/img/unsplash_epRFE_hBNjo.png",
+      "desc": ""
+    },
+    {
+      "name": "product4",
+      "id": "5b11df91-7108-47c7-bb57-b81d19f406cc",
+      "cat": 1,
+      "price": 44,
+      "img": "assets/img/unsplash_KeGToDVN0l4.png",
+      "desc": ""
+    },
+    {
+      "name": "product5",
+      "id": "012c6ef2-a604-4db7-92bc-9c504668e1f6",
+      "cat": 1,
+      "price": 38,
+      "img": "assets/img/unsplash_R8L1l9RN198.png",
+      "desc": ""
+    },
+    {
+      "name": "product6",
+      "id": "d7270c52-8d71-42eb-9693-487e0479d4f5",
+      "cat": 2,
+      "price": 69,
+      "img": "assets/img/unsplash_0POwK6iAiRQ.png",
+      "desc": ""
+    },
+    {
+      "name": "product7",
+      "id": "53945574-5d0c-49c0-a438-58b660843f24",
+      "cat": 2,
+      "price": 34,
+      "img": "assets/img/unsplash_bUgaIaZysH0.png",
+      "desc": ""
+    },
+    {
+      "name": "product8",
+      "id": "92976012-c30c-4069-9d96-4f9c1939bd02",
+      "cat": 2,
+      "price": 67,
+      "img": "assets/img/unsplash_caNzzoxls8Q.png",
+      "desc": ""
+    },
+    {
+      "name": "product9",
+      "id": "a64c13a6-8c65-4392-b743-6ef1c8cf2c4e",
+      "cat": 2,
+      "price": 30,
+      "img": "assets/img/unsplash_k-xYhI3-gJM.png",
+      "desc": ""
+    },
+    {
+      "name": "product10",
+      "id": "982b7341-1144-4be3-8ccb-addb83dfec03",
+      "cat": 2,
+      "price": 58,
+      "img": "assets/img/unsplash_ZV7lnfyQLmA.png",
+      "desc": ""
+    },
+    {
+      "name": "product11",
+      "id": "623d723b-b876-43da-8346-0ffe211e81ec",
+      "cat": 2,
+      "price": 59,
+      "img": "assets/img/unsplash_Zjn4dT993-g.png",
+      "desc": ""
+    },
+    {
+      "name": "product12",
+      "id": "2feae699-262e-499d-a041-3556e583a0a4",
+      "cat": 3,
+      "price": 43,
+      "img": "assets/img/unsplash_sYVY_ZKwaxU.png",
+      "desc": ""
+    },
+    {
+      "name": "product13",
+      "id": "4ef85bb2-6a82-4aef-b493-3e2640655917",
+      "cat": 3,
+      "price": 43,
+      "img": "assets/img/unsplash_R8L1l9RN198.png",
+      "desc": ""
+    },
+    {
+      "name": "product14",
+      "id": "67c2142e-4635-4546-acfc-fb86af1adaf7",
+      "cat": 3,
+      "price": 49,
+      "img": "assets/img/unsplash_r27umXAelDc.png",
+      "desc": ""
+    },
+    {
+      "name": "product15",
+      "id": "26a9a3f4-6cbb-4647-806d-233dbbaa210d",
+      "cat": 3,
+      "price": 57,
+      "img": "assets/img/unsplash_MxVkWPiJALs.png",
+      "desc": ""
+    },
+    {
+      "name": "product16",
+      "id": "a91605c8-98d9-4086-bee3-17ecac33dcff",
+      "cat": 3,
+      "price": 38,
+      "img": "assets/img/unsplash_jMT6BrgBuXU.png",
+      "desc": ""
+    },
+    {
+      "name": "product17",
+      "id": "6c2dd12e-6fbb-4273-a66a-1d1a9dec85b2",
+      "cat": 3,
+      "price": 30,
+      "img": "assets/img/unsplash_fMP-oCze3AY.png",
+      "desc": ""
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Star wars"
+    },
+    {
+      "id": 2,
+      "name": "Consolas"
+    },
+    {
+      "id": 3,
+      "name": "Diversos"
+    }
+  ],
+  "users": [
+    {
+      "id": "d6ef1ea2-1b9e-45e6-883a-26caaed90973",
+      "name": "admin",
+      "pass": "password-admin-hash",
+      "email": "admin-geek@ecommerce.com",
+      "isadmin": true
+    },
+    {
+      "id": "4d1f181d-2af1-4fbc-a8d5-362827cd6363",
+      "name": "sda",
+      "pass": "1234",
+      "email": "a@c.com",
+      "isadmin": false
+    }
+  ]
+}
