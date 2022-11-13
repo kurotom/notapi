@@ -166,13 +166,6 @@
       "pass": "password-admin-hash",
       "email": "admin-geek@ecommerce.com",
       "isadmin": true
-    },
-    {
-      "id": "4d1f181d-2af1-4fbc-a8d5-362827cd6363",
-      "name": "sda",
-      "pass": "1234",
-      "email": "a@c.com",
-      "isadmin": false
     }
   ]
 }
