@@ -162,7 +162,8 @@
   "descuento": [
     {
       "id": 1,
-      "catid": 2
+      "catid": 2,
+      "desc": 33
     }
   ],
   "users": [
